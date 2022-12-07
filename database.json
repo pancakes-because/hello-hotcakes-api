@@ -2,11 +2,15 @@
     "users": [
       {
         "id": 1,
-        "fullName": "Bryan Berry"
+        "fullName": "Bryan Berry",
+        "email": "berrynice@gmail.com",
+        "isMember": false
       },
       {
         "id": 2,
-        "fullName": "Ruby Powell"
+        "fullName": "Ruby Powell",
+        "email": "rubyroo@yahoo.com",
+        "isMember": true 
       }
     ],
     "carts": [
