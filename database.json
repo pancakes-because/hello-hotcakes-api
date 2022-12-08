@@ -3,13 +3,13 @@
       {
         "id": 1,
         "fullName": "Bryan Berry",
-        "email": "berrynice@gmail.com",
+        "email": "berrynice@me.com",
         "isMember": false
       },
       {
         "id": 2,
         "fullName": "Ruby Powell",
-        "email": "rubyroo@yahoo.com",
+        "email": "rubyred@me.com",
         "isMember": true 
       }
     ],
@@ -74,7 +74,7 @@
       },
       {
         "id": 2,
-        "name": "cinnamon swirl pancakes drizzled in cream cheese",
+        "name": "cinnamon swirl pancakes drizzled in cream cheese frosting",
         "price": 12.00
       }
     ],
