@@ -210,22 +210,22 @@
       "stackSizes": [
         {
           "id": 1,
-          "stackSize": 2,
+          "stackSize": "2 pancakes",
           "price": 2.50
         },
         {
           "id": 2,
-          "stackSize": 3,
+          "stackSize": "3 pancakes",
           "price": 3.50
         },
         {
           "id": 3,
-          "stackSize": 4,
+          "stackSize": "4 pancakes",
           "price": 5.00
         },
         {
           "id": 1,
-          "stackSize": 5,
+          "stackSize": "5 pancakes",
           "price": 7.00
         }
       ],
