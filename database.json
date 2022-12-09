@@ -73,7 +73,17 @@
         "price": 11.50
       },
       {
-        "id": 2,
+        "id": 3,
+        "name": "cinnamon swirl pancakes drizzled in cream cheese frosting",
+        "price": 12.00
+      },
+      {
+        "id": 4,
+        "name": "vegetable and sausage pancake casserole",
+        "price": 10.00
+      },
+      {
+        "id": 3,
         "name": "cinnamon swirl pancakes drizzled in cream cheese frosting",
         "price": 12.00
       }
@@ -87,7 +97,7 @@
     ],
       "customMenuItems": [
         {
-          "id": 1,
+          "id": 2,
           "batterId": 1,
           "fillingId": 1,
           "toppingOrderId": 3,
@@ -101,23 +111,18 @@
           "price": 3.00
         },
         {
-          "id": 2,
-          "name": "whole wheat",
-          "price": 3.00
-        },
-        {
           "id": 3,
           "name": "chocolate",
           "price": 3.00
         },
         {
-          "id": 1,
-          "name": "confetti sprinkles",
+          "id": 4,
+          "name": "strawberry",
           "price": 3.00
         },
         {
-          "id": 1,
-          "name": "bananas",
+          "id": 5,
+          "name": "confetti sprinkles",
           "price": 3.00
         }
       ],
@@ -224,7 +229,7 @@
           "price": 5.00
         },
         {
-          "id": 1,
+          "id": 4,
           "stackSize": "5 pancakes",
           "price": 7.00
         }
