@@ -218,7 +218,12 @@
     {
       "id": 11,
       "name": "apple butter",
-      "price": 2
+      "price": 1
+    },
+    {
+      "id": 12,
+      "name": "sour cream",
+      "price": 1
     }
   ],
   "stackSizes": [
