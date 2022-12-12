@@ -1,261 +1,246 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "fullName": "Bryan Berry",
-        "email": "berrynice@me.com",
-        "isMember": false
-      },
-      {
-        "id": 2,
-        "fullName": "Ruby Powell",
-        "email": "rubyred@me.com",
-        "isMember": true 
-      }
-    ],
-    "carts": [
-      {
-        "userId": 0,
-        "pickUpId": "",
-        "totalPrice": "",
-        "phoneNumber": ""
-      },
-      {
-        "userId": 0,
-        "pickUpId": "",
-        "totalPrice": "",
-        "phoneNumber": ""
-      }
-    ],
-    "pickUpTimes": [
-      {
-        "id": 1,
-        "timeslot": "8:30 am"
-      },
-      {
-        "id": 2,
-        "timeslot": "9:15 am"
-      },
-      {
-        "id": 3,
-        "timeslot": "10:30 am"
-      },
-      {
-        "id": 4,
-        "timeslot": "11:15 am"
-      },
-      {
-        "id": 5,
-        "timeslot": "12:30 pm"
-      }
-    ],
-    "secretMenuOrders": [
-      {
-        "id": 1,
-        "secretMenuItemId": 1,
-        "cartId": ""
-      },
-      {
-        "id": 2,
-        "secretMenuItemId": 2,
-        "cartId": ""
-      }
-    ],
-    "secretMenuItems": [
-      {
-        "id": 1,
-        "name": "bacon pancakes topped with shredded cheddar cheese",
-        "price": 13.00
-      },
-      {
-        "id": 2,
-        "name": "brie cheese stuffed pancakes topped with cherry compote",
-        "price": 11.50
-      },
-      {
-        "id": 3,
-        "name": "cinnamon swirl pancakes drizzled in cream cheese frosting",
-        "price": 12.00
-      },
-      {
-        "id": 4,
-        "name": "vegetable and sausage pancake casserole",
-        "price": 10.00
-      },
-      {
-        "id": 3,
-        "name": "cinnamon swirl pancakes drizzled in cream cheese frosting",
-        "price": 12.00
-      }
-    ],
-      "customMenuOrders": [
-        {
-          "id": 1,
-          "customMenuItemId": 1,
-          "cartId": ""
-        }
-    ],
-      "customMenuItems": [
-        {
-          "id": 2,
-          "batterId": 1,
-          "fillingId": 1,
-          "toppingOrderId": 3,
-          "stackSizeId": 4
-        }
-      ],
-      "batters": [
-        {
-          "id": 1,
-          "name": "old fashioned buttermilk",
-          "price": 3.00
-        },
-        {
-          "id": 3,
-          "name": "chocolate",
-          "price": 3.00
-        },
-        {
-          "id": 4,
-          "name": "strawberry",
-          "price": 3.00
-        },
-        {
-          "id": 5,
-          "name": "confetti sprinkles",
-          "price": 3.00
-        }
-      ],
-      "fillings": [
-        {
-          "id": 1,
-          "name": "nutella",
-          "price": 3.00
-        },
-        {
-          "id": 2,
-          "name": "peanut butter",
-          "price": 3.00
-        },
-        {
-          "id": 4,
-          "name": "strawberry jam",
-          "price": 3.00
-        }, 
-        {
-          "id": 5,
-          "name": "blueberry jam",
-          "price": 3.00
-        }
-      ],
-      "toppingOrders": [
-        {
-          "id": 1,
-          "toppingId": 0,
-          "customMenuItemId": 3.00
-        }
-      ],
-      "toppings": [
-        {
-          "id": 1,
-          "name": "brown sugar",
-          "price": 1.00
-        },
-        {
-          "id": 2,
-          "name": "strawberries",
-          "price": 1.00
-        },
-        {
-          "id": 3,
-          "name": "blueberries",
-          "price": 1.00
-        },
-        {
-          "id": 4,
-          "name": "whipped cream",
-          "price": 1.00
-        },
-        {
-          "id": 5,
-          "name": "butter",
-          "price": 1.00
-        }, 
-        {
-          "id": 6,
-          "name": "maple syrup",
-          "price": 1.00
-        },
-        {
-          "id": 7,
-          "name": "strawberry syrup",
-          "price": 1.00
-        },
-        {
-          "id": 8,
-          "name": "blueberry syrup",
-          "price": 1.00
-        },
-        {
-          "id": 9,
-          "name": "honey",
-          "price": 1.00
-        },
-        {
-          "id": 10,
-          "name": "pecans",
-          "price": 1.00
-        },
-        {
-          "id": 11,
-          "name": "apple butter",
-          "price": 2.00
-        }
-      ],
-      "stackSizes": [
-        {
-          "id": 1,
-          "stackSize": "2 pancakes",
-          "price": 2.50
-        },
-        {
-          "id": 2,
-          "stackSize": "3 pancakes",
-          "price": 3.50
-        },
-        {
-          "id": 3,
-          "stackSize": "4 pancakes",
-          "price": 5.00
-        },
-        {
-          "id": 4,
-          "stackSize": "5 pancakes",
-          "price": 7.00
-        }
-      ],
-    "menuOrders": [
-      {
-        "id": 1,
-        "menuItemId": 1,
-        "cartId": ""
-      },
-      {
-        "id": 2,
-        "menuItemId": 2,
-        "cartId": ""
-      }
-    ],
-    "menuItems": [
-      {
-        "id": 1,
-        "name": "buttermilk pancakes with maple syrup and butter",
-        "price": 10
-      },
-      {
-        "id": 2,
-        "name": "chocolate chip pancakes with powedered sugar",
-        "price": 11.50 
-      }
-    ]
-  }
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Bryan Berry",
+      "email": "berrynice@me.com",
+      "isMember": false
+    },
+    {
+      "id": 2,
+      "fullName": "Ruby Powell",
+      "email": "rubyred@me.com",
+      "isMember": true
+    }
+  ],
+  "carts": [
+    {
+      "id": 0,
+      "userId": 0,
+      "pickUpId": 0,
+      "totalPrice": "",
+      "phoneNumber": ""
+    }
+  ],
+  "pickUpTimes": [
+    {
+      "id": 1,
+      "timeslot": "8:30 am"
+    },
+    {
+      "id": 2,
+      "timeslot": "9:15 am"
+    },
+    {
+      "id": 3,
+      "timeslot": "10:30 am"
+    },
+    {
+      "id": 4,
+      "timeslot": "11:15 am"
+    },
+    {
+      "id": 5,
+      "timeslot": "12:30 pm"
+    }
+  ],
+  "menuOrders": [
+    {
+      "id": 0,
+      "menuItemId": 0,
+      "cartId": 0
+    }
+  ],
+  "menuItems": [
+    {
+      "id": 1,
+      "name": "buttermilk pancakes with maple syrup and butter",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "name": "chocolate chip pancakes with powedered sugar",
+      "price": 11.5
+    },
+    {
+      "id": 3,
+      "name": "lemon pancakes with blackberries and whipped cream",
+      "price": 10.5
+    }
+  ],
+  "secretMenuOrders": [
+    {
+      "id": 0,
+      "secretMenuItemId": 0,
+      "cartId": 0
+    }
+  ],
+  "secretMenuItems": [
+    {
+      "id": 1,
+      "name": "bacon pancakes topped with shredded cheddar cheese",
+      "price": 13
+    },
+    {
+      "id": 2,
+      "name": "brie cheese stuffed pancakes topped with cherry compote",
+      "price": 11.5
+    },
+    {
+      "id": 4,
+      "name": "vegetable and sausage pancake casserole",
+      "price": 10
+    },
+    {
+      "id": 5,
+      "name": "cinnamon swirl pancakes drizzled in cream cheese frosting",
+      "price": 12
+    }
+  ],
+  "customMenuOrders": [
+    {
+      "id": 0,
+      "customMenuItemId": 0,
+      "cartId": 0
+    }
+  ],
+  "customMenuItems": [
+    {
+      "id": 0,
+      "batterId": 0,
+      "fillingId": 0,
+      "toppingOrderId": 0,
+      "stackSizeId": 0
+    }
+  ],
+  "batters": [
+    {
+      "id": 1,
+      "name": "old fashioned buttermilk",
+      "price": 3
+    },
+    {
+      "id": 2,
+      "name": "chocolate",
+      "price": 3
+    },
+    {
+      "id": 3,
+      "name": "strawberry",
+      "price": 3
+    },
+    {
+      "id": 4,
+      "name": "confetti sprinkles",
+      "price": 3
+    }
+  ],
+  "fillings": [
+    {
+      "id": 1,
+      "name": "nutella",
+      "price": 3
+    },
+    {
+      "id": 2,
+      "name": "peanut butter",
+      "price": 3
+    },
+    {
+      "id": 3,
+      "name": "strawberry jam",
+      "price": 3
+    },
+    {
+      "id": 4,
+      "name": "blueberry jam",
+      "price": 3
+    }
+  ],
+  "toppingOrders": [
+    {
+      "id": 0,
+      "toppingId": 0,
+      "customMenuItemId": 0
+    }
+  ],
+  "toppings": [
+    {
+      "id": 1,
+      "name": "brown sugar",
+      "price": 1
+    },
+    {
+      "id": 2,
+      "name": "strawberries",
+      "price": 1
+    },
+    {
+      "id": 3,
+      "name": "blueberries",
+      "price": 1
+    },
+    {
+      "id": 4,
+      "name": "whipped cream",
+      "price": 1
+    },
+    {
+      "id": 5,
+      "name": "butter",
+      "price": 1
+    },
+    {
+      "id": 6,
+      "name": "maple syrup",
+      "price": 1
+    },
+    {
+      "id": 7,
+      "name": "strawberry syrup",
+      "price": 1
+    },
+    {
+      "id": 8,
+      "name": "blueberry syrup",
+      "price": 1
+    },
+    {
+      "id": 9,
+      "name": "honey",
+      "price": 1
+    },
+    {
+      "id": 10,
+      "name": "pecans",
+      "price": 1
+    },
+    {
+      "id": 11,
+      "name": "apple butter",
+      "price": 2
+    }
+  ],
+  "stackSizes": [
+    {
+      "id": 1,
+      "stackSize": "2 pancakes",
+      "price": 2.5
+    },
+    {
+      "id": 2,
+      "stackSize": "3 pancakes",
+      "price": 3.5
+    },
+    {
+      "id": 3,
+      "stackSize": "4 pancakes",
+      "price": 5
+    },
+    {
+      "id": 4,
+      "stackSize": "5 pancakes",
+      "price": 7
+    }
+  ]
+}
