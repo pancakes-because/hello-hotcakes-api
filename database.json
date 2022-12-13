@@ -15,8 +15,43 @@
   ],
   "carts": [
     {
-      "id": 0,
-      "userId": 0,
+      "id": 1,
+      "userId": 1,
+      "pickUpId": 0,
+      "totalPrice": "",
+      "phoneNumber": ""
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "pickUpId": 0,
+      "totalPrice": "",
+      "phoneNumber": ""
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "pickUpId": 0,
+      "totalPrice": "",
+      "phoneNumber": ""
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "pickUpId": 0,
+      "totalPrice": "",
+      "phoneNumber": ""
+    },
+    {
+      "id": 5,
+      "userId": 2,
+      "pickUpId": 0,
+      "totalPrice": "",
+      "phoneNumber": ""
+    },
+    {
+      "id": 6,
+      "userId": 1,
       "pickUpId": 0,
       "totalPrice": "",
       "phoneNumber": ""
@@ -46,9 +81,14 @@
   ],
   "menuOrders": [
     {
-      "id": 0,
-      "menuItemId": 0,
-      "cartId": 0
+      "menuItemId": 2,
+      "cartId": 2,
+      "id": 1
+    },
+    {
+      "menuItemId": 1,
+      "cartId": 6,
+      "id": 2
     }
   ],
   "menuItems": [
@@ -70,9 +110,9 @@
   ],
   "secretMenuOrders": [
     {
-      "id": 0,
-      "secretMenuItemId": 0,
-      "cartId": 0
+      "secretMenuItemId": 2,
+      "cartId": 5,
+      "id": 1
     }
   ],
   "secretMenuItems": [
@@ -99,18 +139,54 @@
   ],
   "customMenuOrders": [
     {
-      "id": 0,
-      "customMenuItemId": 0,
-      "cartId": 0
+      "customMenuItemId": 1,
+      "cartId": 5,
+      "id": 1
+    },
+    {
+      "customMenuItemId": 2,
+      "cartId": 5,
+      "id": 2
+    },
+    {
+      "customMenuItemId": 3,
+      "cartId": 6,
+      "id": 3
+    },
+    {
+      "customMenuItemId": 4,
+      "cartId": 6,
+      "id": 4
     }
   ],
   "customMenuItems": [
     {
-      "id": 0,
-      "batterId": 0,
-      "fillingId": 0,
-      "toppingOrderId": 0,
-      "stackSizeId": 0
+      "batterId": 3,
+      "fillingId": 3,
+      "toppingId": 1,
+      "stackSizeId": 2,
+      "id": 1
+    },
+    {
+      "batterId": 2,
+      "fillingId": 1,
+      "toppingId": 2,
+      "stackSizeId": 1,
+      "id": 2
+    },
+    {
+      "batterId": 1,
+      "fillingId": 3,
+      "toppingId": 4,
+      "stackSizeId": 4,
+      "id": 3
+    },
+    {
+      "batterId": 3,
+      "fillingId": 1,
+      "toppingId": 4,
+      "stackSizeId": 1,
+      "id": 4
     }
   ],
   "batters": [
@@ -157,13 +233,7 @@
       "price": 3
     }
   ],
-  "toppingOrders": [
-    {
-      "id": 0,
-      "toppingId": 0,
-      "customMenuItemId": 0
-    }
-  ],
+  "toppingOrders": [],
   "toppings": [
     {
       "id": 1,
