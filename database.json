@@ -16,42 +16,7 @@
   "carts": [
     {
       "id": 1,
-      "userId": 1,
-      "pickUpId": 0,
-      "totalPrice": "",
-      "phoneNumber": ""
-    },
-    {
-      "id": 2,
       "userId": 2,
-      "pickUpId": 0,
-      "totalPrice": "",
-      "phoneNumber": ""
-    },
-    {
-      "id": 3,
-      "userId": 2,
-      "pickUpId": 0,
-      "totalPrice": "",
-      "phoneNumber": ""
-    },
-    {
-      "id": 4,
-      "userId": 1,
-      "pickUpId": 0,
-      "totalPrice": "",
-      "phoneNumber": ""
-    },
-    {
-      "id": 5,
-      "userId": 2,
-      "pickUpId": 0,
-      "totalPrice": "",
-      "phoneNumber": ""
-    },
-    {
-      "id": 6,
-      "userId": 1,
       "pickUpId": 0,
       "totalPrice": "",
       "phoneNumber": ""
@@ -79,18 +44,7 @@
       "timeslot": "12:30 pm"
     }
   ],
-  "menuOrders": [
-    {
-      "menuItemId": 2,
-      "cartId": 2,
-      "id": 1
-    },
-    {
-      "menuItemId": 1,
-      "cartId": 6,
-      "id": 2
-    }
-  ],
+  "menuOrders": [],
   "menuItems": [
     {
       "id": 1,
@@ -108,13 +62,7 @@
       "price": 10.5
     }
   ],
-  "secretMenuOrders": [
-    {
-      "secretMenuItemId": 2,
-      "cartId": 5,
-      "id": 1
-    }
-  ],
+  "secretMenuOrders": [],
   "secretMenuItems": [
     {
       "id": 1,
@@ -137,58 +85,8 @@
       "price": 12
     }
   ],
-  "customMenuOrders": [
-    {
-      "customMenuItemId": 1,
-      "cartId": 5,
-      "id": 1
-    },
-    {
-      "customMenuItemId": 2,
-      "cartId": 5,
-      "id": 2
-    },
-    {
-      "customMenuItemId": 3,
-      "cartId": 6,
-      "id": 3
-    },
-    {
-      "customMenuItemId": 4,
-      "cartId": 6,
-      "id": 4
-    }
-  ],
-  "customMenuItems": [
-    {
-      "batterId": 3,
-      "fillingId": 3,
-      "toppingId": 1,
-      "stackSizeId": 2,
-      "id": 1
-    },
-    {
-      "batterId": 2,
-      "fillingId": 1,
-      "toppingId": 2,
-      "stackSizeId": 1,
-      "id": 2
-    },
-    {
-      "batterId": 1,
-      "fillingId": 3,
-      "toppingId": 4,
-      "stackSizeId": 4,
-      "id": 3
-    },
-    {
-      "batterId": 3,
-      "fillingId": 1,
-      "toppingId": 4,
-      "stackSizeId": 1,
-      "id": 4
-    }
-  ],
+  "customMenuOrders": [],
+  "customMenuItems": [],
   "batters": [
     {
       "id": 1,
