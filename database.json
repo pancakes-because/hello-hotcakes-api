@@ -2,14 +2,14 @@
   "users": [
     {
       "id": 1,
-      "fullName": "Bryan Berry",
-      "email": "berrynice@me.com",
+      "fullName": "Snow White",
+      "email": "snowwhite@me.com",
       "isMember": false
     },
     {
       "id": 2,
-      "fullName": "Ruby Powell",
-      "email": "rubyred@me.com",
+      "fullName": "Rose Red",
+      "email": "rosered@me.com",
       "isMember": true
     }
   ],
@@ -50,7 +50,7 @@
     },
     {
       "id": 3,
-      "name": "blueberry pancakes with apple butter and maple syrup",
+      "name": "blueberry pancakes with apple butter and honey",
       "price": 10.5
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "id": 5,
-      "name": "buttermilk pancakes stuffed with nutella and topped with butter",
+      "name": "buttermilk pancakes stuffed with nutella and topped with powdered sugar",
       "price": 11.5
     }
   ],
@@ -68,43 +68,43 @@
   "secretMenuItems": [
     {
       "id": 1,
-      "name": "coffee pancakes drizzled in caramel sauce, chocolate sauce, and topped with whipped cream",
-      "price": 13
+      "name": "mini pancake puffs glazed in sugar and stuffed with strawberry preserves",
+      "price": 10.5
     },
     {
       "id": 2,
-      "name": "buttermilk pancakes stuffed with melted brie cheese and topped with a tart cherry compote",
-      "price": 11.5
+      "name": "mini sausages fried in pancake batter with a side of apple syrup for dipping",
+      "price": 10.5
     },
     {
       "id": 3,
+      "name": "fried potato pancakes topped with sour cream and scallions",
+      "price": 10.5
+    },
+    {
+      "id": 4,
+      "name": "buttermilk pancakes dusted in brown sugar and cinnamon and drizzled in chocolate sauce",
+      "price": 11
+    },
+    {
+      "id": 5,
+      "name": "buttermilk pancakes stuffed with melted brie cheese and topped with a tart cherry compote",
+      "price": 11
+    },
+    {
+      "id": 6,
+      "name": "buttermilk pancakes with roasted pecans, drizzled in caramel saurce, and topped with vanilla ice cream",
+      "price": 11.5
+    },
+    {
+      "id": 7,
       "name": "sourdough pancakes stacked with melted cheddar cheese and sprinkled with bacon bits and chives",
       "price": 13
     },
     {
-      "id": 4,
-      "name": "mini sausages fried in pancake batter with a side of apple syrup for dipping",
-      "price": 12
-    },
-    {
-      "id": 5,
-      "name": "buttermilk pancakes dusted in brown sugar and cinnamon and drizzled in chocolate sauce",
-      "price": 12
-    },
-    {
-      "id": 6,
-      "name": "mini pancake puffs stuffed with strawberry preserves and topped with whipped cream",
-      "price": 12
-    },
-    {
-      "id": 7,
-      "name": "buttermilk pancakes with roasted pecans, drizzle in caramel saurce, and topped with vanilla ice cream",
-      "price": 12
-    },
-    {
       "id": 8,
-      "name": "fried potato pancakes topped with sour cream and scallions",
-      "price": 12
+      "name": "coffee pancakes drizzled in caramel sauce, chocolate sauce, and topped with whipped cream",
+      "price": 13
     }
   ],
   "customMenuOrders": [],
@@ -122,7 +122,7 @@
     },
     {
       "id": 3,
-      "name": "potato",
+      "name": "sweet potato",
       "price": 3
     },
     {
@@ -164,17 +164,17 @@
     },
     {
       "id": 6,
-      "name": "whipped cream",
+      "name": "lemon custard",
       "price": 3
     },
     {
       "id": 7,
-      "name": "vanilla custard",
+      "name": "brie cheese",
       "price": 3
     },
     {
       "id": 8,
-      "name": "chocolate pudding",
+      "name": "mozzarella cheese",
       "price": 3
     },
     {
@@ -202,32 +202,32 @@
     },
     {
       "id": 3,
-      "name": "honey",
-      "price": 1
-    },
-    {
-      "id": 4,
-      "name": "caramel",
-      "price": 1
-    },
-    {
-      "id": 5,
       "name": "whipped cream",
       "price": 1
     },
     {
-      "id": 6,
+      "id": 4,
       "name": "sour cream",
       "price": 1
     },
     {
+      "id": 5,
+      "name": "honey",
+      "price": 1
+    },
+    {
+      "id": 6,
+      "name": "caramel",
+      "price": 1
+    },
+    {
       "id": 7,
-      "name": "strawberries",
+      "name": "fig jam",
       "price": 1
     },
     {
       "id": 8,
-      "name": "blueberries",
+      "name": "mint",
       "price": 1
     },
     {
@@ -242,22 +242,22 @@
     },
     {
       "id": 11,
-      "name": "cheddar cheese",
-      "price": 1
-    },
-    {
-      "id": 12,
-      "name": "goat cheese",
-      "price": 1
-    },
-    {
-      "id": 13,
       "name": "walnuts",
       "price": 1
     },
     {
-      "id": 14,
+      "id": 12,
       "name": "arugula",
+      "price": 1
+    },
+    {
+      "id": 13,
+      "name": "cheddar cheese",
+      "price": 1
+    },
+    {
+      "id": 14,
+      "name": "goat cheese",
       "price": 1
     }
   ],
