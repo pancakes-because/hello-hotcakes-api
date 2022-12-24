@@ -13,7 +13,36 @@
       "isMember": true
     }
   ],
-  "carts": [],
+  "carts": [
+    {
+      "id": 2,
+      "userId": 2,
+      "pickUpId": 0,
+      "totalPrice": "",
+      "phoneNumber": ""
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "pickUpId": 0,
+      "totalPrice": "",
+      "phoneNumber": ""
+    },
+    {
+      "id": 6,
+      "userId": 2,
+      "pickUpId": 0,
+      "totalPrice": "",
+      "phoneNumber": ""
+    },
+    {
+      "id": 7,
+      "userId": 2,
+      "pickUpId": 0,
+      "totalPrice": "",
+      "phoneNumber": ""
+    }
+  ],
   "pickUpTimes": [
     {
       "id": 1,
@@ -50,7 +79,7 @@
     },
     {
       "id": 3,
-      "name": "blueberry pancakes with apple butter and honey",
+      "name": "blueberry pancakes with apple butter and maple syrup",
       "price": 10.5
     },
     {
@@ -61,6 +90,11 @@
     {
       "id": 5,
       "name": "buttermilk pancakes stuffed with nutella and topped with powdered sugar",
+      "price": 11.5
+    },
+    {
+      "id": 6,
+      "name": "protein pancakes with butter and honey ",
       "price": 11.5
     }
   ],
@@ -93,7 +127,7 @@
     },
     {
       "id": 6,
-      "name": "buttermilk pancakes with roasted pecans, drizzled in caramel saurce, and topped with vanilla ice cream",
+      "name": "buttermilk pancakes with pecans, drizzled in caramel saurce, and topped with vanilla ice cream",
       "price": 11.5
     },
     {
