@@ -13,36 +13,7 @@
       "isMember": true
     }
   ],
-  "carts": [
-    {
-      "id": 2,
-      "userId": 2,
-      "pickUpId": 0,
-      "totalPrice": "",
-      "phoneNumber": ""
-    },
-    {
-      "id": 4,
-      "userId": 2,
-      "pickUpId": 0,
-      "totalPrice": "",
-      "phoneNumber": ""
-    },
-    {
-      "id": 6,
-      "userId": 2,
-      "pickUpId": 0,
-      "totalPrice": "",
-      "phoneNumber": ""
-    },
-    {
-      "id": 7,
-      "userId": 2,
-      "pickUpId": 0,
-      "totalPrice": "",
-      "phoneNumber": ""
-    }
-  ],
+  "carts": [],
   "pickUpTimes": [
     {
       "id": 1,
@@ -94,7 +65,7 @@
     },
     {
       "id": 6,
-      "name": "protein pancakes with butter and honey ",
+      "name": "protein pancakes with peanut butter and honey",
       "price": 11.5
     }
   ],
@@ -251,17 +222,17 @@
     },
     {
       "id": 6,
-      "name": "caramel",
+      "name": "caramel sauce",
       "price": 1
     },
     {
       "id": 7,
-      "name": "fig jam",
+      "name": "chocolate sauce",
       "price": 1
     },
     {
       "id": 8,
-      "name": "mint",
+      "name": "fig jam",
       "price": 1
     },
     {
