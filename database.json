@@ -45,27 +45,27 @@
     },
     {
       "id": 2,
+      "name": "protein pancakes with peanut butter and honey",
+      "price": 10
+    },
+    {
+      "id": 3,
       "name": "strawberry pancakes with butter and powdered sugar",
       "price": 10.5
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "blueberry pancakes with apple butter and maple syrup",
       "price": 10.5
     },
     {
-      "id": 4,
-      "name": "banana pancakes with brown sugar and caramel sauce",
-      "price": 11.5
-    },
-    {
       "id": 5,
-      "name": "buttermilk pancakes stuffed with nutella and topped with powdered sugar",
-      "price": 11.5
+      "name": "banana pancakes with brown sugar and caramel sauce",
+      "price": 11
     },
     {
       "id": 6,
-      "name": "protein pancakes with peanut butter and honey",
+      "name": "buttermilk pancakes stuffed with nutella and topped with powdered sugar",
       "price": 11.5
     }
   ],
