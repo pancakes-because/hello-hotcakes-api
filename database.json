@@ -113,7 +113,15 @@
     }
   ],
   "customMenuOrders": [],
-  "customMenuItems": [],
+  "customMenuItems": [
+    {
+      "batterId": 4,
+      "fillingId": 2,
+      "toppingId": 6,
+      "stackSizeId": 2,
+      "id": 1
+    }
+  ],
   "batters": [
     {
       "id": 1,
